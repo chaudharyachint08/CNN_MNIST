@@ -1,6 +1,6 @@
 # CNN Architectures
 
-This is repository contains python implrmentation of popular CNN architectures:
+This is repository contains python implementation of popular CNN architectures:
 
 1. Lenet-5
 2. Alexnet
